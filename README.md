@@ -12,4 +12,5 @@ Real time bidding framework for digital advertisements
 
 ## Contact
 ptdamiba@gmail.com
+
 https://www.linkedin.com/in/pierredamiba/
