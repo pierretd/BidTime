@@ -5,6 +5,8 @@ Real time bidding framework for digital advertisements
 * Data
 * Resources
   * Relevant Publications
+  * Videos
+  * Articles
 
 ## Contact
 ptdamiba@gmail.com
