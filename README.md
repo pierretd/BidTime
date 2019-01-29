@@ -2,8 +2,8 @@
 Real time bidding framework for digital advertisements
 
 ## Index
-*Data
-
+* Data
+* Resources
 
 ## Relevant Publications
 1. [Real-Time Bidding with Multi-Agent Reinforcement Learning
