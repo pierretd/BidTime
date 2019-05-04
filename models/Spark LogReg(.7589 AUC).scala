@@ -1,4 +1,3 @@
-// Databricks notebook source
 // By using Historical CTR features, linear regression achieved a AUC of 0.7589
 
 // COMMAND ----------
