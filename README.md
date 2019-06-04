@@ -2,7 +2,7 @@
 Real time bidding framework for digital advertisements
 
 ## Index
-* Data
+* Datas
   * Azuvu
 * Resources
   * Relevant Publications
