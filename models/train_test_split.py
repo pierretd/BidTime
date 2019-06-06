@@ -62,11 +62,7 @@ skip_values = sorted(random.sample(range(1,n), n-sample_size))
 
 
 #%%
-df = pd.read_csv('C:\Users\Thier\Downloads\avazu-ctr-prediction\train', compression="infer" gitskiprows = skip_values)
-
-
-#%%
-df.to_csv('avazu_sample_1mil.csv')
+df = pd.read_csv('C:\\Users\\Thier\\Downloads\\avazu-ctr-prediction\\train.gz', compression="infer", skiprows = skip_values)
 
 #%% [markdown]
 # ## Data Prepation
@@ -579,6 +575,9 @@ print(str(classification_report(ytest, predictions)))
 # ### Cross validation-best cv-With and without early stopping
 
 #%%
+import xgboost as xgboost
+xgb = xgboost
+
 d_train = xgb.DMatrix(Xtrain_hashed, ytrain)
 d_valid = xgb.DMatrix(Xtest_hashed, ytest)
 
