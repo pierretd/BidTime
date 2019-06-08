@@ -12,8 +12,8 @@ In the online advertising industry, correctly predicting whether an impression w
 | Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
 | Random Forest(scikit-learn) | 2 | 3 | 4 |5  |
 | Random Forest(Tensorflow) | 2 | 3 | 4 |5  |
-| Logistic Regression(scikit-learn) | 2 | 3 | 4 |5  |
-| Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
+| XGBoost(scikit-learn) | 2 | 3 | 4 |5  |
+| XGBoost(XGBoost) | 2 | 3 | 4 |5  |
 | Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
 
 
