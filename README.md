@@ -8,10 +8,14 @@ In the online advertising industry, correctly predicting whether an impression w
 
 | Model | AUC of ROC | AUC of PRC | MAE | RMSE |
 |---|---|---|---|---|
+| Logistic Regression(scikit-learn) | 2 | 3 | 4 |5  |
 | Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Random Forest(scikit-learn) | 2 | 3 | 4 |5  |
+| Random Forest(Tensorflow) | 2 | 3 | 4 |5  |
+| Logistic Regression(scikit-learn) | 2 | 3 | 4 |5  |
+| Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
+| Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
+
 
 
 ## Index
