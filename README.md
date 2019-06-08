@@ -8,7 +8,7 @@ In the online advertising industry, correctly predicting whether an impression w
 
 | Model | AUC of ROC | AUC of PRC | MAE | RMSE |
 |---|---|---|---|---|
-|  |  |  |  |  |
+| Logistic Regression(Tensorflow) | 2 | 3 | 4 |5  |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
