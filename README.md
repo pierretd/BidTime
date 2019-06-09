@@ -10,13 +10,13 @@ In the online advertising industry, correctly predicting whether an impression w
 |---|---|---|---|---|
 | Logistic Regression(scikit-learn) | 0.717 | 0.335 | 0.255 |0.017  |
 | SGD Classifier(scikit-learn) | 0.717 | 0.335 | 0.260 |0.017|
-|Decision Tree(scikit-learn)  |0.30 | 0.17 | 0.22 |0.324|
+|Decision Tree(scikit-learn)  |0..583 | 0.233 | 0.039 |0.220|
 
 ### Classification Reports(on Clicks)
 | Model | Precision | Recall | F1 Score | 
 |---|---|---|---|
-|Decision Tree(scikit-learn)  |0.30 | 0.17 | 0.22 |
-|Decision Tree(scikit-learn)  |0.30 | 0.17 | 0.22 |
+|Logistic Regression(scikit-learn)  |0.52 | 0.08 | 0.14 |
+|SGD Classifier(scikit-learn) |0.52 | 0.09| 0.15 |
 |Decision Tree(scikit-learn)  |0.30 | 0.17 | 0.22 |
 
 ## Index
