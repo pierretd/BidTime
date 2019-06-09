@@ -5,13 +5,17 @@ In the online advertising industry, correctly predicting whether an impression w
 
 
 ## Model Summaries
-
+### Performance Metrics
 | Model | AUC of ROC | AUC of PRC | MAE | RMSE |
 |---|---|---|---|---|
 | Logistic Regression(scikit-learn) | 0.717 | 0.335 | 0.255 |0.017  |
 | SGD Classifier(scikit-learn) | 0.717 | 0.335 | 0.260 |0.017|
 
-
+### Classification Reports(on Clicks)
+| Model | Precision | Recall | F1 Score | 
+|---|---|---|---|---|
+Decision Tree(scikit-learn)  |0.30 | 0.17 | 0.22 |0.017  |
+| SGD Classifier(scikit-learn) | 0.717 | 0.335 | 0.260 |
 ## Index
 * Data
   * Azuvu
