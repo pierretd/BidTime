@@ -13,7 +13,7 @@ In the online advertising industry, correctly predicting whether an impression w
 
 ### Classification Reports(on Clicks)
 | Model | Precision | Recall | F1 Score | 
-|---|---|---|---|---|
+|---|---|---|---|
 |Decision Tree(scikit-learn)  |0.30 | 0.17 | 0.22 |
 | SGD Classifier(scikit-learn) | 0.717 | 0.335 | 
 ## Index
